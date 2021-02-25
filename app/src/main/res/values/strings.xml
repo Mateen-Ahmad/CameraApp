@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CameraApp</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="image_from_database">Image_from_database</string>
+    <string name="textview">TextView</string>
+</resources>
